@@ -1,2 +1,2 @@
 # jupyter-notebook
-:milky_way: :notebook:
+data science studies :notebook:
