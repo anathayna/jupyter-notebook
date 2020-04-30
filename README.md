@@ -1,2 +1,2 @@
 # jupyter-notebook
-data science studies :notebook:
+scientific computing studies :notebook:
